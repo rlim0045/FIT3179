@@ -1,0 +1,13 @@
+/* Selectors in HTML */
+#loremipsum {
+    color: red;
+}
+
+* {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: italic;
+  font-variation-settings:
+    "wdth" 100;
+}
